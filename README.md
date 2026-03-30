@@ -1,2 +1,2 @@
 # defect_analyzer_ai
-develop web based app using streamlit that allows users to upload images of building to analyse defects using gemini model
+Develop web based app using Streamlit that allows users to upload images of building structure to analyse defects using a gemini model.
